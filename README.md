@@ -4,8 +4,7 @@ Overview
 CampusCent is a Java-based financial planning tool built to address the financial literacy gap among university students, particularly within the Ghanaian context. The system empowers students to develop disciplined financial habits by providing structured tools to track income, expenses, and savings goals while also introducing them to basic investment strategies.
 
 Key Features
-
-    User Management: Secure user registration and login system.
+     User Management: Secure user registration and login system.
 
     Savings Goals: Set financial goals with target amounts and deadlines, and monitor progress.
 
