@@ -3,7 +3,6 @@
 **CampusCent** is a personal finance application developed in Java to help university students in Ghana manage their income, expenses, and savings. 
 It promotes responsible money habits, provides tracking tools, and introduces basic investment concepts, all tailored for the student context.
 
----
 
 ## Overview
 
@@ -11,7 +10,6 @@ CampusCent is a Java-based financial planning tool built to address the financia
 The system empowers students to develop disciplined financial habits by providing structured tools to track income, expenses, 
 and savings goals while also introducing them to basic investment strategies.
 
----
 
 ## Key Features
 
@@ -24,8 +22,6 @@ and savings goals while also introducing them to basic investment strategies.
 - **Currency Integration**: All transactions are managed in Ghanaian Cedi (GH₵)  
 - **Data Persistence**: Utilizes a lightweight SQLite database to store user data and transaction records locally  
 
----
-
 ## ⚙Technologies Used
 
 - Java (OOP, exception handling, lambda expressions, File I/O)  
@@ -33,7 +29,6 @@ and savings goals while also introducing them to basic investment strategies.
 - Apache POI (optional future integration for Excel support)  
 - Git (version control)  
 
----
 
 ## System Architecture
 
@@ -46,7 +41,6 @@ The application follows a modular architecture with clear separation of concerns
 
 These components are designed using standard Java practices, making use of abstraction, polymorphism, and encapsulation.
 
----
 
 ## Setup and Usage
 
@@ -56,7 +50,6 @@ These components are designed using standard Java practices, making use of abstr
 4. Run the application using the Java runtime:  
    `java App`  
 
----
 
 ## Future Enhancements
 
